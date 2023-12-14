@@ -2,5 +2,5 @@ version : "3.8"
 services:
   part1:
    image: page1:v1
-   port:
+   ports:
     - 80:80
